@@ -4,7 +4,7 @@
 
 - I am currently studying about Data Engineering seeking to improve my service provision;
 
-- I seek to collaborate in the solution of processes, applying automations that contribute in time and more productivity;
+- I seek to collaborate in the solution of processes, applying automations that provides in time and more productivity;
 
 ![PedroHSousaLima GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHSousaLima&show_icons=true&theme=dark)
 
