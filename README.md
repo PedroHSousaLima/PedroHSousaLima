@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro Henrique S Lima
 
-- I am currently working as a Data Scientist in a telecommunications company;
+- I currently work as a Data Scientist in a Test / Quality company for a Brazilian banking institution;
 
 - I am currently studying about Data Engineering seeking to improve my service provision;
 
