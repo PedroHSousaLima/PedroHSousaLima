@@ -2,7 +2,7 @@
 
 - I currently work as a Data Scientist at the Ministry of Health outsourced by FIOTEC, a Brazilian institution;
 
-- I am currently studying about Data Engineering seeking to improve my service provision;
+- I have a postgraduate degree in data science and big data, I always seek to improve my knowledge aiming at current challenges on the topics of visualization and data extraction;
 
 - I seek to collaborate in the solution of processes, applying automations that provides in time and more productivity;
 
@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt = "xd" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt = "xd" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt = "xd" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt = "xd" width = "40" height = "40"/>
 <img src="https://cdn-icons-png.flaticon.com/128/732/732222.png" alt = "xd" width = "40" height = "40" />
 </p>
 
