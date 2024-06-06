@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro Henrique S Lima
 
-- I currently work as a Data Scientist in a Test / Quality company for a Brazilian banking institution;
+- I currently work as a Data Scientist at the Ministry of Health outsourced by FIOTEC, a Brazilian institution;
 
 - I am currently studying about Data Engineering seeking to improve my service provision;
 
