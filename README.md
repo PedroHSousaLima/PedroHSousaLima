@@ -6,8 +6,6 @@
 
 - I seek to collaborate in the solution of processes, applying automations that provides in time and more productivity;
 
-![PedroHSousaLima GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHSousaLima&show_icons=true&theme=dark)
-
 
 ### Languages and Tools:
 
