@@ -1,10 +1,10 @@
 ### Hello, I'm Pedro Henrique S Lima
 
-- I currently work as a Data Scientist at the Ministry of Health outsourced by FIOTEC, a Brazilian institution;
+- I currently work as a BI Analyst and Data Scientist at the financial institution CAIXA through Keeggo;
 
-- I have a postgraduate degree in data science and big data, I always seek to improve my knowledge aiming at current challenges on the topics of visualization and data extraction;
+- I have a postgraduate degree in data science and big data and an MBA in Project Management. I always seek to improve my knowledge by addressing current challenges in the areas of data visualization and extraction;
 
-- I seek to collaborate in the solution of processes, applying automations that provides in time and more productivity;
+- I seek to collaborate in solving processes, applying automation that provides time and greater productivity;
 
 
 ### Languages and Tools:
